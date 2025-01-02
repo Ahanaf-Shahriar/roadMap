@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1042321001518",
+    "firebase_url": "https://roadmap-1400d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "roadmap-1400d",
+    "storage_bucket": "roadmap-1400d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042321001518:android:897dbff0983c270e8963bf",
+        "android_client_info": {
+          "package_name": "com.company.map"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfJ4HOA-1ypJkpyiCJF4mzNyM2Kne5-0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042321001518:android:a4d98b3015db6bc68963bf",
+        "android_client_info": {
+          "package_name": "com.example.map"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfJ4HOA-1ypJkpyiCJF4mzNyM2Kne5-0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
